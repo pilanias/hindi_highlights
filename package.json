@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node ./rss.mjs",
     "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint"
@@ -19,6 +19,7 @@
     "date-fns": "^2.30.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
+    "feed": "^4.2.2",
     "github-slugger": "^2.0.0",
     "next": "13.5.4",
     "next-contentlayer": "^0.3.4",

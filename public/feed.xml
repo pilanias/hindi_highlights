@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Next.js Blog With Tailwind CSS and Contentlayer</title>
+        <link>https://create-blog-with-nextjs.vercel.app</link>
+        <description>A blog created with Next.js, Tailwind.css and contentlayer.</description>
+        <lastBuildDate>Thu, 02 Nov 2023 15:06:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en-us</language>
+        <image>
+            <title>Next.js Blog With Tailwind CSS and Contentlayer</title>
+            <url>https://create-blog-with-nextjs.vercel.app/favicon.png</url>
+            <link>https://create-blog-with-nextjs.vercel.app</link>
+        </image>
+        <item>
+            <title><![CDATA[Automating Repetitive Tasks: Productivity Hacks for Developers]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/automating-repetitive-tasks-productivity-hacks-for-developers</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/automating-repetitive-tasks-productivity-hacks-for-developers</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>productivity</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appautomating-repetitive-tasks-productivity-hacks-for-developers/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices for Writing Clean and Maintainable Code]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/best-practices-for-writing-clean-and-maintainable-code</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/best-practices-for-writing-clean-and-maintainable-code</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>code quality</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appbest-practices-for-writing-clean-and-maintainable-code/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Building Progressive Web Apps: Bridging the Gap Between Web and Mobile]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/building-progressive-web-apps-bridging-the-gap-between-web-and-mobile</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/building-progressive-web-apps-bridging-the-gap-between-web-and-mobile</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appbuilding-progressive-web-apps-bridging-the-gap-between-web-and-mobile/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Power of JavaScript Frameworks: Angular vs. React vs. Vue.js]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/js-frameworks-comparison</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/js-frameworks-comparison</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>javascript</category>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appjs-frameworks-comparison/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mastering CSS Grid Layout: A Comprehensive Guide]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/mastering-css-grid-layout</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/mastering-css-grid-layout</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>css</category>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appmastering-css-grid-layout/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Mindfulness and Meditation Techniques for Developers: Improving Focus and Clarity]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/mindfulness-and-meditation-techniques-for-developers-improving-focus-and-clarity</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/mindfulness-and-meditation-techniques-for-developers-improving-focus-and-clarity</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>productivity</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appmindfulness-and-meditation-techniques-for-developers-improving-focus-and-clarity/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rise of Progressive Web Apps (PWAs): A Game Changer in Web Development]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/progressive-web-apps-pwa</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/progressive-web-apps-pwa</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>PWA</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appprogressive-web-apps-pwa/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RESTful APIs: Building Blocks of Modern Web Applications]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/restful-apis-building-blocks</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/restful-apis-building-blocks</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>code quality</category>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.apprestful-apis-building-blocks/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Best Practices for Web Accessibility: Building Inclusive Websites]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/web-accessibility-best-practices</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/web-accessibility-best-practices</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>code quality</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appweb-accessibility-best-practices/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Web Accessibility: Inclusive Design for All Users]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/web-accessibility-inclusive-design</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/web-accessibility-inclusive-design</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>code quality</category>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appweb-accessibility-inclusive-design/cover.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[10 Essential Web Development Tools for Productivity]]></title>
+            <link>https://create-blog-with-nextjs.vercel.app/blog/web-development-tools-productivity</link>
+            <guid>https://create-blog-with-nextjs.vercel.app/blog/web-development-tools-productivity</guid>
+            <pubDate>Invalid Date</pubDate>
+            <author>siteMetadata.author.email (CodeBucks)</author>
+            <category>productivity</category>
+            <category>web development</category>
+            <enclosure url="https://create-blog-with-nextjs.vercel.appweb-development-tools-productivity/cover.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

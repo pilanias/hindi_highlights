@@ -2,9 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+
 html{
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
+
+details::-webkit-scrollbar {
+  display: none;
+}
+
 
 h1>a>.icon.icon-link:before,
 h2>a>.icon.icon-link:before,

@@ -1,22 +1,21 @@
 // please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-    author: 'CodeBucks',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
+    title: 'A blog about new technology and updates for daily life',
+    author: 'Dinesh siddh',
+    headerTitle: 'Hindi Highlights',
+    description:
+      'A blog about new technology and updates for daily life. here we will disscuss about new technology and life style.',
     language: 'en-us',
     theme: 'system', // system, dark or light
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
+    siteUrl: 'https://hindihighlights.in', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
-    twitter: 'https://twitter.com/code_bucks',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
-    locale: 'en-US',
+    email: 'dineshsiddh2001@gmail.com',
+    github: 'https://github.com/Dineshsiddh',
+    twitter: 'https://x.com/dinesh_siddh_?t=oAo3s5q59XrJdY8ZF2Up7A&s=09',
+    facebook: 'https://www.facebook.com/dinesh.siddh.73',
+    linkedin: 'https://www.linkedin.com/in/dineshnath-23work',
+    copyright: 'all rights reserved'
   }
   
   module.exports = siteMetadata

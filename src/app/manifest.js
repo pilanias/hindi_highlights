@@ -1,8 +1,8 @@
 export default function manifest() {
     return {
-      name: 'Next.js App',
-      short_name: 'Next.js App',
-      description: 'Next.js App',
+      name: 'Hindi Highlights',
+      short_name: 'HH',
+      description: 'A blog about new technology and updates for daily life. here we will disscuss about new technology and life style.',
       start_url: '/',
       display: 'standalone',
     //   background_color: '#fff',

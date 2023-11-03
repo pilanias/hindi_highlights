@@ -32,7 +32,8 @@ allBlogs
       link: url,
       title: post.title,
       description: post.summary,
-      date: post.date,
+      date: parseISO(post.publishedAt),
+      update: parseISO(post.updatedAt),
       category: post.tags.map((name) => ({ name })),
       image: `${siteMetadata.siteUrl}/blogs/${post._raw.flattenedPath}/cover.jpg`,
       author: [{

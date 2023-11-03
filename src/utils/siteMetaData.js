@@ -5,7 +5,7 @@ const siteMetadata = {
     headerTitle: 'Hindi Highlights',
     description:
       'A blog about new technology and updates for daily life. here we will disscuss about new technology and life style.',
-    language: 'en-us',
+    language: 'hi-IN',
     theme: 'system', // system, dark or light
     siteUrl: 'https://hindihighlights.in', // your website URL
     siteLogo: '/logo.png',

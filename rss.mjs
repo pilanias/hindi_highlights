@@ -15,9 +15,8 @@ const feed = new Feed({
   image: `${siteMetadata.siteUrl}/favicon.png`,
   copyright: siteMetadata.copyright,
   webMaster: {
-    name: "siteMetadata.webMaster",
-    email: "siteMetadata.webMastereMail",
-    link: "siteMetadata.webMaster.twitter",
+    name: "sandeep pilania",
+    email: "pilanias38@gmail.com",
   },
   managingEditor: {
     name: "dinesh"
@@ -27,19 +26,19 @@ const feed = new Feed({
 allBlogs
   .sort((a, b) => compareDesc(new Date(a.date), new Date(b.date)))
   .forEach((post) => {
-    const url = `${siteMetadata.siteUrl}/blog/${post._raw.flattenedPath}`;
+    const url = `${siteMetadata.siteUrl}/blogs/${post._raw.flattenedPath}`;
     feed.addItem({
       id: url,
       link: url,
       title: post.title,
       description: post.summary,
-      date: parseISO(post.date),
+      date: post.date,
       category: post.tags.map((name) => ({ name })),
-      image: `${siteMetadata.siteUrl}${post._raw.flattenedPath}/cover.png`,
+      image: `${siteMetadata.siteUrl}/blogs/${post._raw.flattenedPath}/cover.jpg`,
       author: [{
         name: siteMetadata.author,
-        email: "siteMetadata.author.email",
-        link: "siteMetadata.author.twitter",
+        email: siteMetadata.email,
+        link: siteMetadata.twitter,
       }],
     });
   });

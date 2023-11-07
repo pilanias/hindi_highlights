@@ -4,6 +4,7 @@ import { useForm } from "react-hook-form";
 import { DribbbleIcon, GithubIcon, LinkedinIcon, TwitterIcon } from "../Icons";
 import Link from "next/link";
 import siteMetadata from "@/src/utils/siteMetaData";
+import WhatsAppComponent from "./whatsapp";
 
 const Footer = () => {
   const {
@@ -85,6 +86,7 @@ const Footer = () => {
           </a>
         </div>
       </div>
+      <WhatsAppComponent />
       <Link
       href="https://chat.whatsapp.com/F8w3oAmhvHLKZVxugWbzbd"
       style={{

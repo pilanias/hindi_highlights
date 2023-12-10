@@ -72,12 +72,22 @@ const Footer = () => {
         <span className="text-center">
           &copy;2023 Hindi Highlights. All rights reserved.
         </span>
+        <div className="flex flex-row items-center gap-2">
         <Link
           href="/feed.xml"
           className="text-center underline my-4 md:my-0"
         >
           feed.xml
         </Link>
+        <div>&</div>
+        <Link
+          href="/privacy.html"
+          className="text-center underline my-4 md:my-0"
+        >
+          Privacy policy
+        </Link>
+        </div>
+        
         
         <div className="text-center">
           Made with &hearts; by{" "}
